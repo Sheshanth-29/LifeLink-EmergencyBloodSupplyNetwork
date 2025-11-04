@@ -25,4 +25,7 @@ This project focuses on:
 - **Frontend:** React, Tailwind CSS, JavaScript  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Version Control:** Git & GitHub  
+- **Version Control:** Git & GitHub
+
+- 🔒 The complete source code is private for intellectual property protection.
+Please contact me for collaboration, demo, or access.
